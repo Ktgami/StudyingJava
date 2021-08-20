@@ -10,6 +10,7 @@ public class Main {
     public static int getGreatestCommonDivision(int first,int second){
             int min =first;
             int commonDivision =0;
+			//testing git
             if(first < 10 || second < 10){
                 return -1;
 
