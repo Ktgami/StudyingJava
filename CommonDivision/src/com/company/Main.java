@@ -11,6 +11,7 @@ public class Main {
             int min =first;
             int commonDivision =0;
 			//testing git branch testing
+			//hello from testing 2
             if(first < 10 || second < 10){
                 return -1;
 
